@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Monika14-abi/LeetCode/tree/master/1929-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Monika14-abi/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
