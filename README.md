@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Monika14-abi/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Monika14-abi/LeetCode/tree/master/0075-sort-colors) |
 | [1929-concatenation-of-array](https://github.com/Monika14-abi/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -27,5 +28,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Monika14-abi/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Monika14-abi/LeetCode/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Monika14-abi/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
