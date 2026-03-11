@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Monika14-abi/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Monika14-abi/LeetCode/tree/master/0075-sort-colors) |
+| [0485-max-consecutive-ones](https://github.com/Monika14-abi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Monika14-abi/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/Monika14-abi/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Simulation
