@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Monika14-abi/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Math
+|  |
+| ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Monika14-abi/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
