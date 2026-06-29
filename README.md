@@ -44,6 +44,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/Monika14-abi/LeetCode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Monika14-abi/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Monika14-abi/LeetCode/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/Monika14-abi/LeetCode/tree/master/0343-integer-break) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Monika14-abi/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Brainteaser
 |  |
