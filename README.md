@@ -52,5 +52,10 @@
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Monika14-abi/LeetCode/tree/master/0319-bulb-switcher) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Monika14-abi/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Monika14-abi/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
